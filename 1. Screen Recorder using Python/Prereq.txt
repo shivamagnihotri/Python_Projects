@@ -1,0 +1,10 @@
+Before using this code please don't forget to install below mention libraries.
+
+*pillow  * numpy * opencv-contrib-python
+
+or you can install these libraries by copying below given command.
+
+pip3 install pillow numpy opencv-contrib-python
+
+Thanks
+Shivam Agnihotri.
